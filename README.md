@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="assets/icon.png" alt="Icon" width="200" height="200" </img>
+<img src="assets/icon.png" alt="Icon" width="200" height="200"> </img>
 <br>omnicron.cloud<br>
 </h1>
 
