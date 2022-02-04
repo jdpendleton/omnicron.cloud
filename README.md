@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="assets/icon.png" alt="Icon" width="200" height="200"> </img>
+<img src="assets/icon.png" alt="Icon" width="200" height="200">
 <br>omnicron.cloud<br>
 </h1>
 
@@ -23,11 +23,11 @@ url: https://api.omnicron.cloud/v1/
 post your google credentials to retrieve a token
 
 ### /jobs
-</br>
+<br>
 
 GET  
 query your omnicron jobs  
-</br>
+<br>
 
 POST  
 create an omnicron job
@@ -44,11 +44,11 @@ create an omnicron job
 ```
 
 ### /runs
-</br>
+<br>
 
 GET  
 query your omnicron runs  
-</br>
+<br>
 
 ## Contact info 
 Submit issues [here](https://github.com/jdpendleton/omnicron.cloud/issues), email jdpendleton@alumni.fullsail.edu for questions
